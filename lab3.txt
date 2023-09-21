@@ -24,6 +24,7 @@
             <h2>
                 OICKLE.DEVON@GMAIL.COM
             </h2>
+            <hr>
         </div>
             
 

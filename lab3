@@ -1,0 +1,185 @@
+<!doctype html>
+
+<html>
+    <head>
+        <style>
+            .header{
+                background-color: lightgray;
+                padding: 20px;
+                text-align: center;}
+            .header2{
+                background-color: lightgray;
+                padding: 10px;
+                text-align: center;
+                font-size:10px; }
+            
+
+            *{
+                box-sizing: border-box;
+            }
+            
+            .column{
+                float: left;
+                width: 50%;
+                padding: 15px;}
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="header">
+            <h1>
+                Devon Oickle
+                
+            </h1>
+        </div>
+
+        <div class="header2">
+            <h2>
+                842 Giant Cedars Cres., Ottawa, ON K1V1N9 
+            </h2>
+            <h2>
+                (613) -808-6234
+            </h2> 
+            <h2>
+                OICKLE.DEVON@GMAIL.COM
+            </h2>
+        </div>
+            
+
+        <div class="column">
+            <h2>
+                Work experience
+            </h2>
+            <p>
+                JUNE 2020 TO PRESENT 
+                CO-OWNER - SWIMRSS
+            </p>
+
+            <p>
+                My brother and I started a Red Cross certified business teaching swimming lessons in our backyard pool.
+            </p>
+
+            <p>
+                Administer the business and set up a legal partnership, procure insurance, obtain Red Cross certification for the pool, create website, schedule lessons, invoice and collect fees for lessons
+            </p>
+
+            <p>
+                Communicate and follow-up with parents about lesson administration and skills development of the students  
+            </p>
+
+            <p>
+                Teach lessons one on one, including power swim
+            </p>
+            
+
+            <p>
+                MARCH 2021 TO PRESENT
+                SUPERVISOR AND INSTRUCTOR, Carleton university
+            </p>
+            <p>
+                Assist lifeguards/instructors by passing on knowledge of swim instruction and lifeguarding
+                Supervise lifeguards/instructors
+            </p>
+            <p>
+                Participate in skills evaluations sessions to hire lifeguards/instructors
+            </p>
+            <p>
+                Conduct skills training for lifeguards/instructors
+            </p>
+            <p>
+                Lifeguard and instructor responsibilities 
+            </p>
+
+            <p>
+MAY 2018 TO NOVEMBER 2019
+LIFEGUARD AND INSTRUCTOR, Carleton university
+Provide swim instruction to children and adults, including the Bronze series courses
+
+            </p>
+
+        </div>
+    <div class="row">
+
+        <div class="column">
+            <h2>
+                Education
+            </h2>
+
+            <p>
+                SEPTEMBER 2022 TO PRESENT 
+                BACHELOR OF TECHNOLOGY (HOLOURS DIGITAL HEALTH), ALGONQUIN COLLEGE
+                
+                
+            </p>
+
+            <p>
+                SEPTEMBER 2020 TO DECEMBER 2021
+                BACHELOR OF SCIENCE (BIOLOGY), ONTARIO TECH UNIVERSITY
+                
+            </p>
+
+            <p>
+                JUNE 2020
+                HIGH SCHOOL DIPLOMA, Merivale high school
+                
+            </p>
+
+        </div>
+    </div>
+    <div class="row">
+
+        <div class="column">
+            <h2>
+                Certifications
+            </h2>
+
+            <p>
+                CPR C/ Standard First Aid
+            </p>
+
+            <p>
+                National Lifeguard Certification (Lifesaving Society)
+            </p>
+
+            <p>
+                Lifesaving Swim instructor (Lifesaving Society)
+            </p>
+
+            <p>
+                Lifesaving Instructor Certification (Lifesaving society)
+            </p>
+
+            <p>
+                Emergency First Aid Instructor Certification (Red Cross) 
+            </p>
+
+            
+
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="column">
+            <h2>
+                Fun facts about me
+            </h2>
+
+            <p>
+                I enjoy swimming, reading, playing ultimate, and working out
+            </p>
+
+            <p>
+                Fluent in both English and French
+            </p>
+
+            
+
+        </div>
+    </div>
+
+    </body>
+
+</html>

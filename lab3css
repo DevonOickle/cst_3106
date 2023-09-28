@@ -26,9 +26,11 @@
 
             p.outset{
                 border-style: outset;
+                background-color:whitesmoke;
             }
 
             p.solid{
                 border-style: solid;
+                background-color: whitesmoke;
             }
 

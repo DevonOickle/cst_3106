@@ -5,7 +5,7 @@
         <link rel="stylesheet" href="lab3css">
     </head>
 
-    <body>
+    <body style = "background-color: #6f7086;">
 
         <div class="header">
             <h1>

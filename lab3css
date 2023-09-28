@@ -18,3 +18,17 @@
                 width: 50%;
                 padding: 15px;}
 
+            hr {
+                height:5px;
+                border-width:1;
+                background-color:black;
+                 }
+
+            p.outset{
+                border-style: outset;
+            }
+
+            p.solid{
+                border-style: solid;
+            }
+

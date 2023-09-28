@@ -24,10 +24,12 @@
             <h2>
                 OICKLE.DEVON@GMAIL.COM
             </h2>
+            
         </div>
             
-
+        <hr>
         <div class="column">
+            
             <h2>
                 Work experience
             </h2>
@@ -77,6 +79,7 @@ LIFEGUARD AND INSTRUCTOR, Carleton university
 Provide swim instruction to children and adults, including the Bronze series courses
 
             </p>
+        
 
         </div>
     <div class="row">

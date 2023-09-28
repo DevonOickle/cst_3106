@@ -24,3 +24,11 @@
                 background-color:black;
                  }
 
+            p.outset{
+                border-style: outset;
+            }
+
+            p.solid{
+                border-style: solid;
+            }
+

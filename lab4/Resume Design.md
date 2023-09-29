@@ -20,3 +20,12 @@ Here I used a farly standard text for everything. Kept things tidy.
 - **Design:** 'Centered text with a light grey background.'
 - **Mock-up Screenshot:** 
 
+## Content
+- **Design:** Light grey background with an outset border.
+- **Mock-Up Screenshot:**
+
+## COntent Header:**
+- **Design:** Black text with no background situated above the content it introduces.
+- **Mock-Up Screenshot:**
+
+  

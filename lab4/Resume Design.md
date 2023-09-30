@@ -19,15 +19,15 @@ Here I used a farly standard text for everything. Kept things tidy.
 ## Header
 - **Design:** 'Centered text with a light grey background.'
 - **Mock-up Screenshot:**
-  ![Header Mock-up](Header.pdf)
+  ![Header Mock-up](Header.png)
 
 ## Content
 - **Design:** Light grey background with an outset border.
 - **Mock-Up Screenshot:**
-![Header Mock-up](Content.pdf)
+![Header Mock-up](Content.png)
 
 ## Content Header:**
 - **Design:** Black text with no background situated above the content it introduces.
 - **Mock-Up Screenshot:**
-![Header Mock-up](Content_Header.pdf)
+![Header Mock-up](Content_Header.png)
   

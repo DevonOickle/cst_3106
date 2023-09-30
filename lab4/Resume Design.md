@@ -24,7 +24,7 @@ Here I used a farly standard text for everything. Kept things tidy.
 - **Design:** Light grey background with an outset border.
 - **Mock-Up Screenshot:**
 
-## COntent Header:**
+## Content Header:**
 - **Design:** Black text with no background situated above the content it introduces.
 - **Mock-Up Screenshot:**
 

@@ -31,7 +31,7 @@ The dice will be an off white colour #ededed, with pips being the Secondary Back
 ## Game Mock-Ups
 
 ## Playing Instructions
-Rolling: Players roll tge dice up to three times per round. The player chooses which dice they want to keep for the next roll. 
+Rolling: Players roll the dice up to three times per round. The player chooses which dice they want to keep for the next roll. 
 Scoring: Points are awarded based on the dice combination rolled. 
 Game end: Once all the scorecard combinations are filled, the game will tally the points and show the total score. 
 

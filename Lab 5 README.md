@@ -15,7 +15,7 @@ Yhatzee combines luck and strategy into a simple dice game. A player will roll 5
 ### Colour Palette
   -   **Text Colour:** '#000000'
   -   **Backgroudnd Colour:** '#000000' - Used for the main background 
-  -   **Secondary Background Colour:** '#6f7086' - Used for the background of the score sheet
+  -   **Secondary Background Colour:** '#15253f' - Used for the background of the score sheet
   -   **Border Colour:** '#454444' - Used for the boxes of the score sheet
   -   **Header Colour:** '#6f7086' - Used for the name of the game
 
